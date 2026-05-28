@@ -48,3 +48,10 @@ GitHub：JAYSAYLIL
 
 存储权限 — 用于导入Excel课表文件和设置自定义背景图片
 （不收集任何个人信息，所有数据本地存储）
+
+<img width="1280" height="2800" alt="应用图片5" src="https://github.com/user-attachments/assets/a0864936-3415-45cb-b056-b0f50d2c492c" />
+<img width="1280" height="2800" alt="应用图片4" src="https://github.com/user-attachments/assets/9194aa75-cb21-40bb-a55e-7436150b94d1" />
+<img width="1280" height="2800" alt="应用图片3" src="https://github.com/user-attachments/assets/b7efb00c-ddea-42a8-abee-a4ed6648878f" />
+<img width="1280" height="2800" alt="应用图片2" src="https://github.com/user-attachments/assets/db1b250c-35a6-4349-b251-706e4334b8c2" />
+<img width="1280" height="2800" alt="应用图片1" src="https://github.com/user-attachments/assets/d1385c3d-94a0-4e67-bce6-ef76c5a7e4ad" />
+
