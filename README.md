@@ -42,7 +42,7 @@ v1.4
 
 === 开发者 ===
 
-GitHub：JAYSAYLIL
+GitHub：JAYSAYlil
 
 === 权限说明 ===
 
